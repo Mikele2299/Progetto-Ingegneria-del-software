@@ -12,6 +12,8 @@ L’obbiettivo è quello di garantire affidabilità e costi vantaggiosi alla nos
 
 Membri del progetto
 
-Michele Del Mastro	0512108937
+Michele Del Mastro	0512108937 
+
 Armando Imbimbo	0512106867
+
 Giuseppe Sabia	0512106468
